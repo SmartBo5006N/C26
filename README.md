@@ -1,4 +1,4 @@
 # angryBirdsStage2.5
 Angry Birds stage 2.5 with Class Inheritance and Images
 
-Inheritance and Images are added.
+Inheritance and Images are removed.
